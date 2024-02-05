@@ -2,7 +2,7 @@
 
 [Website Here!]()
 
-This is my primary hub for showcasing my skills and projects to potential employers. This portfolio website was crafted with a user-centric approach, utilising frameworks like Bootstrap, languages such as [HTML5](https://en.wikipedia.org/wiki/HTML) and [CSS3](https://en.wikipedia.org/wiki/CSS), and libraries & programs including [Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [Git](https://git-scm.com/), [GitHub](https://github.com/), and [Balsamiq](https://balsamiq.com/).
+This is my primary hub for showcasing my skills and projects to potential employers. This portfolio website was crafted with a user-centric approach, utilising the framework [Bootstrap](https://getbootstrap.com/), languages such as [HTML5](https://en.wikipedia.org/wiki/HTML) and [CSS3](https://en.wikipedia.org/wiki/CSS), and libraries & programs including [Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [Git](https://git-scm.com/), [GitHub](https://github.com/), and [Balsamiq](https://balsamiq.com/).
 
 ![Mock up image placeholder](image.jpg)
 
@@ -13,6 +13,7 @@ This is my primary hub for showcasing my skills and projects to potential employ
   - [Employer/Recruiter/Collaborator Goals](#employerrecruitercollaborator-goals)
   - [User Stories](#user-stories)
   - [Design Decisions](#design-decisions)
+  - [Wireframes](#wireframes)
 - [Credits](#credits)
   - [Content](#content)
   - [Media](#media)
@@ -43,14 +44,44 @@ A potential employer/collaborator will want to:
 
 As a potential employer, client or collaborator I want:
 
-- To understand the purpose of this personal portfolio website almost instantly.
-- A predictably user-friendly layout for easy navigation.
-- To determine if the developer possesses the skills required for potential collaborations or projects.
-- To learn more about the person through an engaging 'About Me' section reflecting personality and values.
-- links to external profiles like LinkedIn or GitHub for a comprehensive view of their work.
-- Easily accessible contact information, with additional options like a contact form or links to professional social media.
+- Quickly understand the purpose of the portfolio website.
+- Navigate easily with a user-friendly layout.
+- Assess the developer's skills and experiences.
+- Learn about the developer through an engaging 'About Me' section.
+- Access external profiles like LinkedIn or GitHub for more information.
+- Find easily accessible contact information.
+
 
 ### Design Decisions
+
+#### Colours
+
+- The primary colour for the website is Hex: #2B2B2B. This dark colour was choosen as I typically operate my IDEs (Integrated Development Environment) in night mode and this colour reminded me of that.
+- A secondary colour of Hex: #555555 is used to create contrast between the sections of the page.
+- Text is to be Hex: #FFFFFF to give the best contrast.
+- Links will show as Hex: #3498db when hovered over and change to Hex: #e74c3c when clicked to provide user feedback.
+
+#### Typography
+
+- The page title, page scroll prompts and buttons used the serif font "Merriweather". This is the only time this is being used so it will stnad our from all other text.
+- Vast majority of text was written in the sans-serif front "Roboto". This is a simple clean font that is easy to read.
+
+#### Icons
+
+- Most icons will be white to improve contrast and were either company logos or globally regonised symbols for what they were representing. E.g [Linkedin](https://www.linkedin.com/) logo being used for a link to a linkedin page.
+- Some of the arrow scroll prompts will be black to create a contrast to the text that is linked to it.
+
+#### Images
+
+- As the webiste is a personal portfolio, portaits with no background have been used.
+- For the projects, screen shots / mock-ups have been used. If the images are clicked a tab will open to the GitHub repository will open up.
+
+### Wireframes
+
+- Header - [View](https://ibb.co/Zmg3MR8)
+- About Me - [View](https://ibb.co/Jsmpcqh)
+- Projects - [View](https://ibb.co/mbDWR2Y)
+- Contact - [View](https://ibb.co/8jbSbkJ)
 
 ## Credits
 
@@ -58,9 +89,11 @@ As a potential employer, client or collaborator I want:
 
 ### Media
 
+- Image hosting of the wireframe screenshots was done through [ImgBB](https://imgbb.com/)
+
 ### Code
 
 ### Acknowledgements
 
-- Code Institute for their tutorials, guidance, templates, examples, and mentorship.
-- Github for their [git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- **Code Institute**: For their tutorials, guidance, templates, examples, and mentorship.
+- **GitHub**: For their [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf).
