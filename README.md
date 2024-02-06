@@ -90,6 +90,7 @@ As a potential employer, client or collaborator I want:
 ### Media
 
 - Image hosting of the wireframe screenshots was done through [ImgBB](https://imgbb.com/)
+- For icons I used the [Font Awesome](https://fontawesome.com/) library
 
 ### Code
 
@@ -97,3 +98,4 @@ As a potential employer, client or collaborator I want:
 
 - **Code Institute**: For their tutorials, guidance, templates, examples, and mentorship.
 - **GitHub**: For their [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf).
+- [**W3Schools**](https://www.w3schools.com/): For their tutorials, examples and reference sheets.
