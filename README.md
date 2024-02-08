@@ -2,7 +2,7 @@
 
 [Website Here!]()
 
-This is my primary hub for showcasing my skills and projects to potential employers. This portfolio website was crafted with a user-centric approach, utilising the framework [Bootstrap](https://getbootstrap.com/), languages such as [HTML5](https://en.wikipedia.org/wiki/HTML) and [CSS3](https://en.wikipedia.org/wiki/CSS), and libraries & programs including [Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [Git](https://git-scm.com/), [GitHub](https://github.com/), and [Balsamiq](https://balsamiq.com/).
+This is my primary hub for showcasing my skills and projects to potential employers. This portfolio website was crafted with a user-centric approach, utilising the framework [Bootstrap](https://getbootstrap.com/), languages such as [HTML5](https://en.wikipedia.org/wiki/HTML), [CSS3](https://en.wikipedia.org/wiki/CSS) and [JavaScript](https://en.wikipedia.org/wiki/JavaScript), and libraries & programs including [Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [Git](https://git-scm.com/), [GitHub](https://github.com/), and [Balsamiq](https://balsamiq.com/).
 
 ![Mock up image placeholder](image.jpg)
 
@@ -14,6 +14,7 @@ This is my primary hub for showcasing my skills and projects to potential employ
   - [User Stories](#user-stories)
   - [Design Decisions](#design-decisions)
   - [Wireframes](#wireframes)
+  - [Technologies Used](#technologies-used)
 - [Credits](#credits)
   - [Content](#content)
   - [Media](#media)
@@ -64,7 +65,7 @@ As a potential employer, client or collaborator I want:
 #### Typography
 
 - The page title, page scroll prompts and buttons used the serif font "Merriweather". This is the only time this is being used so it will stnad our from all other text.
-- Vast majority of text was written in the sans-serif front "Roboto". This is a simple clean font that is easy to read.
+- Vast majority of text was written in the sans-serif font "Roboto". This is a simple clean font that is easy to read.
 
 #### Icons
 
@@ -83,6 +84,20 @@ As a potential employer, client or collaborator I want:
 - Projects - [View](https://ibb.co/mbDWR2Y)
 - Contact - [View](https://ibb.co/8jbSbkJ)
 
+## Technologies Used
+
+- [Online-Convert.com](hhttps://image.online-convert.com/convert-to-ico) to convert a .png to an .ico. This .ico file was used as a favicon to appear next to the title in the browser tab.
+- [HTML](https://en.wikipedia.org/wiki/HTML) for the website content.
+- [Bootstrap](https://getbootstrap.com/) framework for the intial styling and responsivness. 
+- [CSS](https://en.wikipedia.org/wiki/CSS) to futher style and customise the webpage.
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) to add some interactivity on scroll.
+- [Google Fonts](https://fonts.google.com/) to style the website fonts.
+- [Font Awesome](https://fontawesome.com/) for the icons used on the webpage.
+- [Git](https://git-scm.com/) was used as the version control system.
+- [GitHub](https://github.com/) for the git repository hosting.
+- [Balsamiq](https://balsamiq.com/) for the wireframe modeling
+- [ImgBB](https://imgbb.com/) to host the wireframe screnshots.
+
 ## Credits
 
 ### Content
@@ -90,7 +105,8 @@ As a potential employer, client or collaborator I want:
 ### Media
 
 - Image hosting of the wireframe screenshots was done through [ImgBB](https://imgbb.com/)
-- For icons I used the [Font Awesome](https://fontawesome.com/) library
+- For icons on the webpage I used the [Font Awesome](https://fontawesome.com/) library
+- [Online-Convert.com](hhttps://image.online-convert.com/convert-to-ico) to convert a .png to an .ico.
 
 ### Code
 
