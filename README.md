@@ -106,7 +106,7 @@ As a potential employer, client or collaborator I want:
 
 - Image hosting of the wireframe screenshots was done through [ImgBB](https://imgbb.com/)
 - For icons on the webpage I used the [Font Awesome](https://fontawesome.com/) library
-- [Online-Convert.com](hhttps://image.online-convert.com/convert-to-ico) to convert a .png to an .ico.
+- [Online-Convert.com](https://image.online-convert.com/convert-to-ico) to convert a .png to an .ico.
 
 ### Code
 
