@@ -14,7 +14,7 @@ This is my primary hub for showcasing my skills and projects to potential employ
   - [User Stories](#user-stories)
   - [Design Decisions](#design-decisions)
   - [Wireframes](#wireframes)
-  - [Technologies Used](#technologies-used)
+- [Technologies Used](#technologies-used)
 - [Credits](#credits)
   - [Content](#content)
   - [Media](#media)
@@ -112,6 +112,6 @@ As a potential employer, client or collaborator I want:
 
 ### Acknowledgements
 
-- **Code Institute**: For their tutorials, guidance, templates, examples, and mentorship.
+- [**Code Institute**](https://codeinstitute.net/): For their tutorials, guidance, templates, examples, and mentorship.
 - **GitHub**: For their [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf).
 - [**W3Schools**](https://www.w3schools.com/): For their tutorials, examples and reference sheets.
