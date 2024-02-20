@@ -14,6 +14,9 @@ This is my primary hub for showcasing my skills and projects to potential employ
   - [User Stories](#user-stories)
   - [Design Decisions](#design-decisions)
   - [Wireframes](#wireframes)
+- [Features](#features)
+  - [Existing](#existing-features)
+  - [Left to implement](#left-to-implement)
 - [Technologies Used](#technologies-used)
 - [Credits](#credits)
   - [Content](#content)
@@ -84,6 +87,14 @@ As a potential employer, client or collaborator I want:
 - Projects - [View](https://ibb.co/mbDWR2Y)
 - Contact - [View](https://ibb.co/8jbSbkJ)
 
+## Features
+
+### Existing Features
+
+### Left to Implement
+
+1. Smooth scrolling when a page link is clicked. This feature currently doesn't work and I'm not entirly sure why. Any feedback would be greatly appreciated.
+
 ## Technologies Used
 
 - [Online-Convert.com](hhttps://image.online-convert.com/convert-to-ico) to convert a .png to an .ico. This .ico file was used as a favicon to appear next to the title in the browser tab.
@@ -113,5 +124,5 @@ As a potential employer, client or collaborator I want:
 ### Acknowledgements
 
 - [**Code Institute**](https://codeinstitute.net/): For their tutorials, guidance, templates, examples, and mentorship.
-- **GitHub**: For their [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf).
+- [**GitHub**](https://github.com/): For their [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf).
 - [**W3Schools**](https://www.w3schools.com/): For their tutorials, examples and reference sheets.
