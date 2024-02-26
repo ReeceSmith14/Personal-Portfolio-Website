@@ -91,9 +91,21 @@ As a potential employer, client or collaborator I want:
 
 ### Existing Features
 
+1. Fixed Navigation Bar
+
+    - Navigation bar fixed to the top of the screen with links so no matter where you are on the page you can always just to another section.
+    - Navigation bar includes links to the three sections: About, Projects and Contact.
+    - I have also included links to my [Linkedin](https://www.linkedin.com/) and [Github](https://github.com/)
+
+2. About Section
+
+    - This sections includes a brief description of the technogies that I can use so that potetnial employers and collaborators can have a quick overview of my skill set.
+    - A "Contact Me" button is found at the bottom of this section to allow the user to quickly be able ot jump to that section after reading about me.
+
 ### Left to Implement
 
 1. Smooth scrolling when a page link is clicked. This feature currently doesn't work and I'm not entirly sure why. Any feedback would be greatly appreciated.
+2. Scroll down prompts which will be animated to bounce at the bottom of each section. I'm currently struggling with the positions of these elements so again any feedback would be appreciated.
 
 ## Technologies Used
 
@@ -107,7 +119,7 @@ As a potential employer, client or collaborator I want:
 - [Git](https://git-scm.com/) was used as the version control system.
 - [GitHub](https://github.com/) for the git repository hosting.
 - [Balsamiq](https://balsamiq.com/) for the wireframe modeling
-- [ImgBB](https://imgbb.com/) to host the wireframe screnshots.
+- [ImgBB](https://imgbb.com/) to host the wireframe screenshots.
 
 ## Credits
 

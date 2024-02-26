@@ -1,33 +1,97 @@
-html{
-    scroll-behavior: smooth;/*This doesn't work and I don't know why */
+html {
+    scroll-behavior: smooth;
+    /*This doesn't work and I don't know why :(*/
 }
-#t-nav{
+
+#t-nav {
     border-bottom: black;
     border-style: hidden hidden solid hidden;
     position: fixed;
     top: 0;
     width: 100%;
     background-color: white;
-    font-family: "Roboto", sans-serif;
+    font-family: "Barriecito", system-ui;
     font-weight: 400;
     font-style: normal;
 }
-#NavCollapse{
+
+#NavCollapse {
     transition: 0.3s;
 }
-#h-content{
+
+#h-content {
     margin-top: 60px;
+    background-image: linear-gradient(to right, #0a2239, #132e32);
 }
-.nav-socials{
+
+.nav-socials {
     font-size: 1.8rem;
 }
-.nav-words{
-    font-size:1.4rem;
+
+.nav-words {
+    font-size: 1.4rem;
 }
-a.nav-link{
-    color:black;
+
+a.nav-link {
+    color: black;
 }
-a.nav-link:hover{
-    color:#53a2be;
-    transition: 0.1s;
+
+a.nav-link:hover {
+    color: #53a2be;
+    transition: 0.2s;
+}
+
+#h-writing {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    color: white;
+}
+
+.nav {
+    flex-wrap: nowrap !important;
+}
+
+/* scroll-prompt is currently beyond the scope*/
+/*#scroll-prompt{
+    position: relative;
+    bottom: 10vh;
+    right: auto;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    color: white;
+    text-align: center;
+}*/
+#about {
+    background-image: linear-gradient(to right, #53a2be, #1d84b5);
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    color: white;
+}
+
+#a-heading {
+    font-family: "Barriecito", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+#button{
+    background-color: #0a2239;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#button:hover{
+    background-color: white;
+    color:#0a2239 ;
+    transition: 0.2s;
 }
