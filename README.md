@@ -14,6 +14,9 @@ This is my primary hub for showcasing my skills and projects to potential employ
   - [User Stories](#user-stories)
   - [Design Decisions](#design-decisions)
   - [Wireframes](#wireframes)
+- [Features](#features)
+  - [Existing](#existing-features)
+  - [Left to implement](#left-to-implement)
 - [Technologies Used](#technologies-used)
 - [Credits](#credits)
   - [Content](#content)
@@ -84,11 +87,31 @@ As a potential employer, client or collaborator I want:
 - Projects - [View](https://ibb.co/mbDWR2Y)
 - Contact - [View](https://ibb.co/8jbSbkJ)
 
+## Features
+
+### Existing Features
+
+1. Fixed Navigation Bar
+
+    - Navigation bar fixed to the top of the screen with links so no matter where you are on the page you can always just to another section.
+    - Navigation bar includes links to the three sections: About, Projects and Contact.
+    - I have also included links to my [Linkedin](https://www.linkedin.com/) and [Github](https://github.com/)
+
+2. About Section
+
+    - This sections includes a brief description of the technogies that I can use so that potetnial employers and collaborators can have a quick overview of my skill set.
+    - A "Contact Me" button is found at the bottom of this section to allow the user to quickly be able ot jump to that section after reading about me.
+
+### Left to Implement
+
+1. Smooth scrolling when a page link is clicked. This feature currently doesn't work and I'm not entirly sure why. Any feedback would be greatly appreciated.
+2. Scroll down prompts which will be animated to bounce at the bottom of each section. I'm currently struggling with the positions of these elements so again any feedback would be appreciated.
+
 ## Technologies Used
 
 - [Online-Convert.com](hhttps://image.online-convert.com/convert-to-ico) to convert a .png to an .ico. This .ico file was used as a favicon to appear next to the title in the browser tab.
 - [HTML](https://en.wikipedia.org/wiki/HTML) for the website content.
-- [Bootstrap](https://getbootstrap.com/) framework for the intial styling and responsivness. 
+- [Bootstrap](https://getbootstrap.com/) framework for the intial styling and responsivness.
 - [CSS](https://en.wikipedia.org/wiki/CSS) to futher style and customise the webpage.
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) to add some interactivity on scroll.
 - [Google Fonts](https://fonts.google.com/) to style the website fonts.
@@ -96,7 +119,7 @@ As a potential employer, client or collaborator I want:
 - [Git](https://git-scm.com/) was used as the version control system.
 - [GitHub](https://github.com/) for the git repository hosting.
 - [Balsamiq](https://balsamiq.com/) for the wireframe modeling
-- [ImgBB](https://imgbb.com/) to host the wireframe screnshots.
+- [ImgBB](https://imgbb.com/) to host the wireframe screenshots.
 
 ## Credits
 
@@ -113,5 +136,5 @@ As a potential employer, client or collaborator I want:
 ### Acknowledgements
 
 - [**Code Institute**](https://codeinstitute.net/): For their tutorials, guidance, templates, examples, and mentorship.
-- **GitHub**: For their [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf).
+- [**GitHub**](https://github.com/): For their [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf).
 - [**W3Schools**](https://www.w3schools.com/): For their tutorials, examples and reference sheets.
