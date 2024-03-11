@@ -4,7 +4,9 @@
 
 This is my primary hub for showcasing my skills and projects to potential employers. This portfolio website was crafted with a user-centric approach, utilising the framework [Bootstrap](https://getbootstrap.com/), languages such as [HTML5](https://en.wikipedia.org/wiki/HTML) & [CSS3](https://en.wikipedia.org/wiki/CSS), and libraries & programs including [Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [Git](https://git-scm.com/), [GitHub](https://github.com/), and [Balsamiq](https://balsamiq.com/).
 
-![Mock up image placeholder](image.jpg)
+<p align=center >
+<img src=assets/images/mockup.jpg>
+</p>
 
 ## Table of Contents
 

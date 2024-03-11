@@ -1,4 +1,4 @@
-/*Media query to stop the nav bar overflowing on screens larger than 1400px wide*/
+/*Media query to stop the nav bar overflowing on screens larger than 1399px wide*/
 @media (min-width: 1400px) {
     #t-nav {
         max-width: 1320px; /* Adjust the value as needed */
