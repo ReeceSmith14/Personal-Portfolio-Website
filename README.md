@@ -20,6 +20,8 @@ This is my primary hub for showcasing my skills and projects to potential employ
   - [Existing](#existing-features)
   - [Left to implement](#left-to-implement)
 - [Technologies Used](#technologies-used)
+- [Testing](#testing)
+- [Deployment](#deployment)
 - [Credits](#credits)
   - [Content](#content)
   - [Media](#media)
@@ -62,25 +64,25 @@ As a potential employer, client or collaborator I want:
 
 #### Colours
 
-- The primary colour for the website is Hex: #2B2B2B. This dark colour was choosen as I typically operate my IDEs (Integrated Development Environment) in night mode and this colour reminded me of that.
-- A secondary colour of Hex: #555555 is used to create contrast between the sections of the page.
-- Text is to be Hex: #FFFFFF to give the best contrast.
-- Links will show as Hex: #3498db when hovered over and change to Hex: #e74c3c when clicked to provide user feedback.
+- The primary colours for the website are Hex: #0A2239 and Hex:#132E32 . This dark colour was choosen as I typically operate my IDEs (Integrated Development Environment) in night mode and these colour reminded me of that.
+- Secondary colours of Hex: #53A2BE and Hex:#1D84B5 are used to create contrast between the sections of the page.
+- The text is mostly white with the navbar in black as this give the best contrasts.
+- Navbar links show as Hex: #53A2BE, contact me button shows as HEX: #53A2BE with a background colour of white and project links show as black when hovered over
 
 #### Typography
 
-- The page title, page scroll prompts and buttons used the serif font "Merriweather". This is the only time this is being used so it will stnad our from all other text.
-- Vast majority of text was written in the sans-serif font "Roboto". This is a simple clean font that is easy to read.
+- The navbar, about section heading and  project titles all used the display font "Barriecito". As these are the only time this is being used so it will stnad our from all other text.
+- Vast majority of text was written in the sans-serif font "Open Sans". This is a simple clean font that is easy to read.
 
 #### Icons
 
-- Most icons will be white to improve contrast and were either company logos or globally regonised symbols for what they were representing. E.g [Linkedin](https://www.linkedin.com/) logo being used for a link to a linkedin page.
-- Some of the arrow scroll prompts will be black to create a contrast to the text that is linked to it.
+- Icons will be either white or blacking depending on what provides the best contrast.
+- Either company logos or globally regonised symbols for what they were representing are used to meet the users expectations. E.g [Linkedin](https://www.linkedin.com/) logo being used for a link to a linkedin page.
 
 #### Images
 
 - As the webiste is a personal portfolio, portaits with no background have been used.
-- For the projects, screen shots / mock-ups have been used. If the images are clicked a tab will open to the GitHub repository will open up.
+- For the projects, code snippet screen shots have been used. If the images are clicked a tab will open to the associated GitHub repository. PLEASE NOTE: Pictures of my dog have been used as placeholder for these images as these projects don't currently exist.
 
 ### Wireframes
 
@@ -101,13 +103,15 @@ As a potential employer, client or collaborator I want:
 
 2. About Section
 
-    - This sections includes a brief description of the technogies that I can use so that potetnial employers and collaborators can have a quick overview of my skill set.
+    - This sections includes a brief description of the technologies that I can use so that potetnial employers and collaborators can have a quick overview of my skill set.
     - A "Contact Me" button is found at the bottom of this section to allow the user to quickly be able ot jump to that section after reading about me.
 
 ### Left to Implement
 
-1. Smooth scrolling when a page link is clicked. This feature currently doesn't work and I'm not entirly sure why. Any feedback would be greatly appreciated.
-2. Scroll down prompts which will be animated to bounce at the bottom of each section. I'm currently struggling with the positions of these elements so again any feedback would be appreciated.
+1. Scroll down prompts which will be animated to bounce at the bottom of each section. I'm currently struggling with the positions of these elements so any feedback would be appreciated.
+2. Projects section should include screenshots of code snippets that when clicked take you to the respective GitHub repository, rather than cute pictures of my dog.
+3. Social media links don't currently go to my pages. These pages are yet to be finished so didn't want to link to something that wasn't complete.
+4. Link contact form at the bottom of the page to either a database or triggers an automated email that sends me the message and contact details.
 
 ## Technologies Used
 
@@ -115,13 +119,16 @@ As a potential employer, client or collaborator I want:
 - [HTML](https://en.wikipedia.org/wiki/HTML) for the website content.
 - [Bootstrap](https://getbootstrap.com/) framework for the intial styling and responsivness.
 - [CSS](https://en.wikipedia.org/wiki/CSS) to futher style and customise the webpage.
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) to add some interactivity on scroll.
 - [Google Fonts](https://fonts.google.com/) to style the website fonts.
 - [Font Awesome](https://fontawesome.com/) for the icons used on the webpage.
 - [Git](https://git-scm.com/) was used as the version control system.
 - [GitHub](https://github.com/) for the git repository hosting.
 - [Balsamiq](https://balsamiq.com/) for the wireframe modeling
 - [ImgBB](https://imgbb.com/) to host the wireframe screenshots.
+
+## Testing
+
+## Deployment
 
 ## Credits
 
@@ -132,6 +139,7 @@ As a potential employer, client or collaborator I want:
 - Image hosting of the wireframe screenshots was done through [ImgBB](https://imgbb.com/)
 - For icons on the webpage I used the [Font Awesome](https://fontawesome.com/) library
 - [Online-Convert.com](https://image.online-convert.com/convert-to-ico) to convert a .png to an .ico.
+- [Smartmockups](https://smartmockups.com/) used to make the website mockup used in this README.md
 
 ### Code
 
