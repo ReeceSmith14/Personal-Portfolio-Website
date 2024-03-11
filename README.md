@@ -1,8 +1,8 @@
 <h1 align="center" style="font-size:40px; font-family:serif;">Reece Smith - Personal Portfolio</h1>
 
-[Website Here!]()
+[Website Here!](https://reecesmith14.github.io/Personal-Portfolio-Website/)
 
-This is my primary hub for showcasing my skills and projects to potential employers. This portfolio website was crafted with a user-centric approach, utilising the framework [Bootstrap](https://getbootstrap.com/), languages such as [HTML5](https://en.wikipedia.org/wiki/HTML), [CSS3](https://en.wikipedia.org/wiki/CSS) and [JavaScript](https://en.wikipedia.org/wiki/JavaScript), and libraries & programs including [Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [Git](https://git-scm.com/), [GitHub](https://github.com/), and [Balsamiq](https://balsamiq.com/).
+This is my primary hub for showcasing my skills and projects to potential employers. This portfolio website was crafted with a user-centric approach, utilising the framework [Bootstrap](https://getbootstrap.com/), languages such as [HTML5](https://en.wikipedia.org/wiki/HTML) & [CSS3](https://en.wikipedia.org/wiki/CSS), and libraries & programs including [Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [Git](https://git-scm.com/), [GitHub](https://github.com/), and [Balsamiq](https://balsamiq.com/).
 
 ![Mock up image placeholder](image.jpg)
 

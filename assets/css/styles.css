@@ -1,4 +1,10 @@
-
+/*Media query to stop the nav bar overflowing on screens larger than 1400px wide*/
+@media (min-width: 1400px) {
+    #t-nav {
+        max-width: 1320px; /* Adjust the value as needed */
+        /* Other styles for #t-nav */
+    }
+}
 html {
     scroll-behavior: smooth;
 }
@@ -67,7 +73,7 @@ a.nav-link:hover {
     text-align: center;
 }*/
 
-/*About scetion styling*/
+/*About section styling*/
 #about {
     background-image: linear-gradient(to right, #53a2be, #1d84b5);
     font-family: "Open Sans", sans-serif;
@@ -105,6 +111,10 @@ a.nav-link:hover {
     background-image: linear-gradient(to right, #0a2239, #132e32);
 }
 /*Project section links and screenshot styling*/
+img.img-fluid.project-img{
+    max-width: 80%;
+    height: auto;
+}
 #projects a{
     text-decoration: none;
     color:white;
