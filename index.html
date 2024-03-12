@@ -18,7 +18,7 @@
   <body>
     <header class="container-xxl">
       <!--Social links-->
-      <div id="t-nav" class="row">
+      <div id="t-nav" class="row container-xxl">
         <div class="col-6">
           <ul class="nav">
             <li class="nav-item nav-socials"><a class="nav-link" href="https://linkedin.com" target="_blank"><i
@@ -34,7 +34,7 @@
             data-bs-toggle="collapse">
             <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse justify-content-center" id="NavCollapse">
+            <div class="collapse navbar-collapse justify-content-end" id="NavCollapse">
               <ul class="navbar-nav align-items-center">
                 <li class="nav-item nav-words">
                   <a class="nav-link" href="#about">About Me</a>
@@ -59,20 +59,16 @@
         </div>
         <!--Portait -->
         <div class="col-lg-6">
-          <img class="img-fluid" src="assets/images/Header.png" alt="Reece Smith Portrait">
+          <img class="img-fluid" src="assets/images/header.webp" alt="Reece Smith Portrait">
         </div>
       </div>
-      <!--Scroll down prompt. Removed as it's currently beyond the scope-->
-      <!--<div id="scroll-prompt">
-        <p>More Below</p>
-        <i class="fas fa-chevron-down"></i>
-      </div>-->
     </header>
+    <!--About section-->
     <section id="about" class="container-xxl text-center">
       <!--Portait that pairs with the about me section writing-->
       <div class="row align-items-center">
         <div class="col-lg-6">
-          <img class="img-fluid" src="assets/images/About me.png" alt="Reece Smith Portrait">
+          <img class="img-fluid" src="assets/images/about-me.webp" alt="Reece Smith Portrait">
         </div>
         <!-- Heading and paragraph for the about section-->
         <div class="col-lg-6">
@@ -95,11 +91,6 @@
           </a>
         </div>
       </div>
-      <!--Scroll down prompt. Removed as it's currently beyond the scope-->
-      <!--<div>
-        <p>Why Not Check Out My Projects?</p>
-        <i class="fas fa-chevron-down"></i>
-      </div>-->
     </section>
     <section id="projects" class="container-xxl text-center">
       <!--Project gallery with anchored screenshots and project titles-->
@@ -108,18 +99,18 @@
       <div class="row">
         <div class="col-lg-6">
           <figure>
-            <a href="">
+            <a target="_blank" href="https://github.com/ReeceSmith14/Project-1">
               <figcaption>Project 1 Title</figcaption>
             </a>
-            <a href=""><img class="img-fluid project-img" src="assets/images/Not project image.jpg"
+            <a target="_blank" href="https://github.com/ReeceSmith14/Project-1"><img class="img-fluid project-img" src="assets/images/project-1.webp"
             alt="picture of my dog in place of a project screenshoot"></a>
           </figure>
         </div>
         <div class="col-lg-6">
           <figure>
-            <a href=""><img class="img-fluid project-img" src="assets/images/Not project image.jpg"
+            <a target="_blank" href="https://github.com/ReeceSmith14/Project-2"><img class="img-fluid project-img" src="assets/images/project-2.webp"
             alt="picture of my dog in place of a project screenshoot"></a>
-            <a href="">
+            <a target="_blank" href="https://github.com/ReeceSmith14/Project-2">
               <figcaption>Project 2 Title</figcaption>
             </a>
           </figure>
@@ -128,20 +119,20 @@
       <div class="row">
         <div class="col-lg-6">
           <figure>
-            <a href="">
+            <a target="_blank" href="https://github.com/ReeceSmith14/Project-3">
               <figcaption>Project 3 Title</figcaption>
             </a>
-            <a href="">
-              <img class="img-fluid project-img" src="assets/images/Not project image.jpg"
+            <a target="_blank" href="https://github.com/ReeceSmith14/Project-3">
+              <img class="img-fluid project-img" src="assets/images/project-3.webp"
               alt="picture of my dog in place of a project screenshoot">
             </a>
           </figure>
         </div>
         <div class="col-lg-6">
           <figure>
-            <a href=""><img class="img-fluid project-img" src="assets/images/Not project image.jpg"
+            <a target="_blank" href="https://github.com/ReeceSmith14/Project-4"><img class="img-fluid project-img" src="assets/images/project-4.webp"
             alt="picture of my dog in place of a project screenshoot"></a>
-            <a href="">
+            <a target="_blank" href="https://github.com/ReeceSmith14/Project-4">
               <figcaption>Project 4 Title</figcaption>
             </a>
           </figure>
@@ -176,7 +167,7 @@
         <div id="contact-form" class="col-lg-6">
           <!--Contact form-->
           <h2 class="text-center">Contact Me</h2>
-          <form class="text-center" action="" method="post">
+          <form target="_blank" class="text-center" action="https://formdump.codeinstitute.net" method="post">
             <label class="form-label" for="name">Name</label>
             <input class="form-control" type="text" id="name" name="name" placeholder="Name" required>
             <label class="form-label" for="email">Email</label>
