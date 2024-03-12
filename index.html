@@ -18,7 +18,7 @@
   <body>
     <header class="container-xxl">
       <!--Social links-->
-      <div id="t-nav" class="row container-xxl">
+      <div id="top-navbar" class="row container-xxl">
         <div class="col-6">
           <ul class="nav">
             <li class="nav-item nav-socials"><a class="nav-link" href="https://linkedin.com" target="_blank"><i
@@ -27,14 +27,14 @@
             class="fa fa-github"></i></a></li>
           </ul>
         </div>
-        <!--Navigation bar-->
+        <!--Navigation links-->
         <div class="col-6">
           <nav class="navbar navbar-expand-lg justify-content-center">
-            <button type="button" class="navbar-toggler" data-bs-target="#NavCollapse"
+            <button type="button" class="navbar-toggler" data-bs-target="#nav-collapse"
             data-bs-toggle="collapse">
             <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse justify-content-end" id="NavCollapse">
+            <div class="collapse navbar-collapse justify-content-end" id="nav-collapse">
               <ul class="navbar-nav align-items-center">
                 <li class="nav-item nav-words">
                   <a class="nav-link" href="#about">About Me</a>
@@ -51,8 +51,8 @@
         </div>
       </div>
       <!--Main and sub headings-->
-      <div id="h-content" class="row align-items-center text-center">
-        <div id="h-writing" class="col-lg-6">
+      <div id="header-content" class="row align-items-center text-center">
+        <div id="header-writing" class="col-lg-6">
           <h1>Reece Smith</h1>
           <h2>Full Stack Web Developer</h2>
           <h3>Turning ideas into reality, one line of code at a time.</h3>
@@ -68,11 +68,11 @@
       <!--Portait that pairs with the about me section writing-->
       <div class="row align-items-center">
         <div class="col-lg-6">
-          <img class="img-fluid" src="assets/images/about-me.webp" alt="Reece Smith Portrait">
+          <img id="about-img" class="img-fluid" src="assets/images/about-me.webp" alt="Reece Smith Portrait">
         </div>
         <!-- Heading and paragraph for the about section-->
         <div class="col-lg-6">
-          <h2 id="a-heading">Hello World! I'm Reece Smith</h2>
+          <h2 id="about-heading">Hello World! I'm Reece Smith</h2>
           <p>
             I'm currently a dedicated student at the Code Institute,
             immersing myself in the exciting world of web development.
@@ -139,7 +139,7 @@
         </div>
       </div>
     </section>
-    <section id="contact" class="container-xxl">
+    <section id="contact-section" class="container-xxl">
       <!--List of ways to contact me-->
       <div id="contact-container" class="row align-items-center">
         <div id="contacts" class="d-none d-lg-block col-lg-6">
