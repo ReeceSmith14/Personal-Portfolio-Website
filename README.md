@@ -2,18 +2,18 @@
 
 [Website Here!](https://reecesmith14.github.io/Personal-Portfolio-Website/)
 
-This is my primary hub for showcasing my skills and projects to potential employers. This portfolio website was crafted with a user-centric approach, utilising the framework [Bootstrap](https://getbootstrap.com/), languages such as [HTML5](https://en.wikipedia.org/wiki/HTML) & [CSS3](https://en.wikipedia.org/wiki/CSS), and libraries & programs including [Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [Git](https://git-scm.com/), [GitHub](https://github.com/), and [Balsamiq](https://balsamiq.com/).
+This mock website represents my primary hub for showcasing my skills and projects to potential employers. It was crafted with a user-centric approach, utilising the framework [Bootstrap](https://getbootstrap.com/), languages such as [HTML5](https://en.wikipedia.org/wiki/HTML) & [CSS3](https://en.wikipedia.org/wiki/CSS), and libraries & programs including [Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [Git](https://git-scm.com/), [GitHub](https://github.com/), and [Balsamiq](https://balsamiq.com/).
 
 <p align=center >
-<img src=assets/images/mockup.jpg>
+<img src="images for README/site-mockup.png">
 </p>
 
 ## Table of Contents
 
 - [UX (User Experience) Design](#ux-user-experience-design)
-  - [Developer Goals](#developer-goals)
-  - [Employer/Recruiter/Collaborator Goals](#employerrecruitercollaborator-goals)
-  - [User Stories](#user-stories)
+  - [Strategy](#Strategy)
+  - [Scope](#scope)
+  - [Structure](#structure)
   - [Design Decisions](#design-decisions)
   - [Wireframes](#wireframes)
 - [Features](#features)
@@ -30,35 +30,36 @@ This is my primary hub for showcasing my skills and projects to potential employ
 
 ## UX (User Experience) Design
 
-### Developer Goals
+### Strategy
 
-As a developer my goals are to:
+Goal: The goal of the project is to design a mock personal portfolio website that attracts potential employers, recruiters, collaborators and clients.
 
-- Practice and refine existing skills.
-- Learn new skills through problem-solving and collaborating.
-- Attract potential employers.
+Approach: The website focuses on showcasing various technologies used, demonstrated within the site and mock-up projects. These projects are currently empty containing only an index.html, however, as I continue to learn and build these will be populated.
 
-### Employer/Recruiter/Collaborator Goals
+Rationale: Recruiters want to know about potential employees' skills, experience, and projects. They expect this information to be easy to find and clear on their websites. Because recruiters look at many sites each day, mine needs to be easy to use and visually appealing to stand out.
 
-A potential employer/collaborator will want to:
+Strategy: The website should showcase the technologies I can use, and the skills I possess in an interesting way to keep recruiters and employers engaged. Ultimately the goal is steer them towards the "Contact" section.
 
-- Quickly identify suitable candidates.
-- Gain a understanding of a candidate's skills, experiences.
-- Easily reach out to potential candidates for further discussions.
-- Evaluate whether a candidate will fit well into the company culture.
-- Gain insights into your collaboration and communication style.
+### Scope
 
-### User Stories
+#### Functions and features that are within the scope
 
-As a potential employer, client or collaborator I want:
+- Landing header to summarise the website and provide easy navigation to all other sections
+- About section to summarise my experience and skills
+- Projects section to give an overview of my work.
+- Contact section to allow employers, collaborators and clients to connect and ask quetions.
 
-- Quickly understand the purpose of the portfolio website.
-- Navigate easily with a user-friendly layout.
-- Assess the developer's skills and experiences.
-- Learn about the developer through an engaging 'About Me' section.
-- Access external profiles like LinkedIn or GitHub for more information.
-- Find easily accessible contact information.
+At everystage of the design the main focus is driving traffic towars the contact section or social media links.
 
+### Structure
+
+#### Landing Header
+
+#### About Me Section
+
+#### Projects Section
+
+#### Contact Section
 
 ### Design Decisions
 
@@ -115,7 +116,7 @@ As a potential employer, client or collaborator I want:
 
 ## Technologies Used
 
-- [Online-Convert.com](hhttps://image.online-convert.com/convert-to-ico) to convert a .png to an .ico. This .ico file was used as a favicon to appear next to the title in the browser tab.
+- [Online-Convert.com](https://image.online-convert.com/convert-to-ico) to convert a .png to a .ico. This .ico file was used as a favicon to appear next to the title in the browser tab.
 - [HTML](https://en.wikipedia.org/wiki/HTML) for the website content.
 - [Bootstrap](https://getbootstrap.com/) framework for the intial styling and responsivness.
 - [CSS](https://en.wikipedia.org/wiki/CSS) to futher style and customise the webpage.
@@ -125,6 +126,7 @@ As a potential employer, client or collaborator I want:
 - [GitHub](https://github.com/) for the git repository hosting.
 - [Balsamiq](https://balsamiq.com/) for the wireframe modeling
 - [ImgBB](https://imgbb.com/) to host the wireframe screenshots.
+- [Placeit](https://placeit.net/) used to produce website mockup used in this README.md
 
 ## Testing
 
@@ -138,13 +140,15 @@ As a potential employer, client or collaborator I want:
 
 - Image hosting of the wireframe screenshots was done through [ImgBB](https://imgbb.com/)
 - For icons on the webpage I used the [Font Awesome](https://fontawesome.com/) library
-- [Online-Convert.com](https://image.online-convert.com/convert-to-ico) to convert a .png to an .ico.
-- [Smartmockups](https://smartmockups.com/) used to make the website mockup used in this README.md
+- [Online-Convert.com](https://image.online-convert.com/convert-to-ico) to convert a .png to a .ico for the favicon.
+- To make the website mockup used in this README.md I used [Placeit](https://placeit.net/)
 
 ### Code
 
+- [W3Schools](https://www.w3schools.com/bootstrap/bootstrap_navbar.asp) tutorial on a bootstrap collapsing navigation bar was used as a guide when constructing my own.
+
 ### Acknowledgements
 
-- [**Code Institute**](https://codeinstitute.net/): For their tutorials, guidance, templates, examples, and mentorship.
-- [**GitHub**](https://github.com/): For their [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf).
-- [**W3Schools**](https://www.w3schools.com/): For their tutorials, examples and reference sheets.
+- [Code Institute](https://codeinstitute.net/): For their tutorials, guidance, templates, examples, and mentorship.
+- [GitHub](https://github.com/): For their [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf).
+- [W3Schools](https://www.w3schools.com/): For their tutorials, examples and reference sheets.
