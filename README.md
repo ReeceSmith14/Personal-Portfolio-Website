@@ -4,9 +4,7 @@
 
 This mock website represents my primary hub for showcasing my skills and projects to potential employers. It was crafted with a user-centric approach, utilising the framework [Bootstrap](https://getbootstrap.com/), languages such as [HTML5](https://en.wikipedia.org/wiki/HTML) & [CSS3](https://en.wikipedia.org/wiki/CSS), and libraries & programs including [Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [Git](https://git-scm.com/), [GitHub](https://github.com/), and [Balsamiq](https://balsamiq.com/).
 
-<p align=center >
-<img src="images for README/site-mockup.png">
-</p>
+![Mockup image of my website](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/28f73e43-08c4-4200-8d36-cb81eb5bba22)
 
 ## Table of Contents
 
@@ -45,7 +43,7 @@ Strategy: The website should showcase the technologies I can use, and the skills
 #### Functions and features that are within the scope
 
 - Landing header to summarise the website and provide easy navigation to all other sections
-- About section to summarise my experience and skills
+- About me section to summarise my experience and skills
 - Projects section to give an overview of my work.
 - Contact section to allow employers, collaborators and clients to connect and ask quetions.
 
@@ -54,6 +52,8 @@ At everystage of the design the main focus is driving traffic towars the contact
 ### Structure
 
 #### Landing Header
+
+![Image of my header](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/c92043d2-7e0b-44e2-be23-857ff18aa63d)
 
 #### About Me Section
 
