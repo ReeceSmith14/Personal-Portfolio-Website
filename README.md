@@ -9,7 +9,7 @@ This mock website represents my primary hub for showcasing my skills and project
 ## Table of Contents
 
 - [UX (User Experience) Design](#ux-user-experience-design)
-  - [Strategy](#Strategy)
+  - [Strategy](#strategy)
   - [Scope](#scope)
   - [Structure](#structure)
   - [Design Decisions](#design-decisions)
@@ -55,11 +55,25 @@ At everystage of the design the main focus is driving traffic towars the contact
 
 ![Image of my header](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/c92043d2-7e0b-44e2-be23-857ff18aa63d)
 
+![Image of header on smaller screens](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/03d49db7-b8bf-42df-ae2b-90f065c3394c)
+
 #### About Me Section
+
+![Image of about me scetion](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/4fede8b4-8ac6-4d8d-8854-d8485cd2e866)
+
+![Image of about me section on smaller screens](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/4d4e9251-f3d4-44ec-9068-1afea619e24f)
 
 #### Projects Section
 
+![Image of project section](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/433a2219-5a5c-48dd-83c2-d371aad5df2c)
+
+![Image of project section on smaller screens](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/c90ac523-6ef5-4980-87c5-35edbfac9d45)
+
 #### Contact Section
+
+![Image of contact section](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/934c8e18-8ce4-40da-8d3a-76c5ab2e6c12)
+
+![Image of contact section on smaller screens](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/727f00e2-b074-4f10-9e0f-99b9b2d40bc5)
 
 ### Design Decisions
 
