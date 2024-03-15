@@ -12,16 +12,12 @@ This mock website represents my primary hub for showcasing my skills and project
   - [Strategy](#strategy)
   - [Scope](#scope)
   - [Structure](#structure)
-  - [Design Decisions](#design-decisions)
-  - [Wireframes](#wireframes)
-- [Features](#features)
-  - [Existing](#existing-features)
-  - [Left to implement](#left-to-implement)
+  - [Skeleton](#keleton)
+  - [Surface](#surface)
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
 - [Deployment](#deployment)
 - [Credits](#credits)
-  - [Content](#content)
   - [Media](#media)
   - [Code](#code)
   - [Acknowledgements](#acknowledgements)
@@ -30,103 +26,159 @@ This mock website represents my primary hub for showcasing my skills and project
 
 ### Strategy
 
-Goal: The goal of the project is to design a mock personal portfolio website that attracts potential employers, recruiters, collaborators and clients.
+#### My Objectives
 
-Approach: The website focuses on showcasing various technologies used, demonstrated within the site and mock-up projects. These projects are currently empty containing only an index.html, however, as I continue to learn and build these will be populated.
+The goal of the project is to design a mock personal portfolio website that attracts potential employers, recruiters, collaborators and clients.
 
-Rationale: Recruiters want to know about potential employees' skills, experience, and projects. They expect this information to be easy to find and clear on their websites. Because recruiters look at many sites each day, mine needs to be easy to use and visually appealing to stand out.
+#### User Stories
+
+As a potential employer, client or collaborator I want:As a potential employer, client or collaborator I want to:
+
+- Quickly understand the purpose of the portfolio website.
+- Navigate easily with a user-friendly layout.
+- Assess the developer's skills and experiences.
+- Learn about the developer through an engaging 'About Me' section.
+- Access external profiles like LinkedIn or GitHub for more information.
+- Find easily accessible contact information.
 
 Strategy: The website should showcase the technologies I can use, and the skills I possess in an interesting way to keep recruiters and employers engaged. Ultimately the goal is steer them towards the "Contact" section.
 
 ### Scope
 
-#### Functions and features that are within the scope
+#### Functions, Features & Content
 
-- Landing header to summarise the website and provide easy navigation to all other sections
-- About me section to summarise my experience and skills
+- Landing header to summarise the website and provide easy navigation to all other sections.
+- About me section to summarise my experience and skills.
 - Projects section to give an overview of my work.
-- Contact section to allow employers, collaborators and clients to connect and ask quetions.
+- Contact section to allow employers, collaborators and clients to connect and ask questions.
 
-At everystage of the design the main focus is driving traffic towars the contact section or social media links.
+At every stage of the design the main focus is driving traffic towards the contact section or social media links.
 
 ### Structure
 
-#### Landing Header
+#### Landing header
 
-![Image of my header](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/c92043d2-7e0b-44e2-be23-857ff18aa63d)
-
-![Image of header on smaller screens](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/03d49db7-b8bf-42df-ae2b-90f065c3394c)
+- Upon landing on the header, users are greeted with a clean and visually appealing layout with the navigation bar and links predictably at the top of the web page to drive a familiar experience.
+- The header includes the developer's name and a brief tagline highlighting and suggesting what they can expect from this webpage.
+- There is a visually striking hero portrait of me in order to showcase a glimpse of personailty and to make the website more personable and begin to build a connection with the user.
 
 #### About Me Section
 
-![Image of about me scetion](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/4fede8b4-8ac6-4d8d-8854-d8485cd2e866)
-
-![Image of about me section on smaller screens](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/4d4e9251-f3d4-44ec-9068-1afea619e24f)
+- The About Me section provides users with more information about me, including my skills, experience, and passion for web development.
+- This section includes another portrait of me again to make this section more personable.
+- At the bottom of the section there is a call-to-action (CTA) button prompting users to contact me.
 
 #### Projects Section
 
-![Image of project section](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/433a2219-5a5c-48dd-83c2-d371aad5df2c)
-
-![Image of project section on smaller screens](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/c90ac523-6ef5-4980-87c5-35edbfac9d45)
+- Projects are displayed as clickable tiles or cards, each featuring a thumbnail image and project title
+- Users can click on a project to view more details. Clicking either the images or titles will take the user to that project respective Github repository.
 
 #### Contact Section
 
-![Image of contact section](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/934c8e18-8ce4-40da-8d3a-76c5ab2e6c12)
+- The Contact section provides users with various ways to get in touch with me, such as a contact form, email address, phone number, and links to social media profiles.
+- The contact form includes fields for users to input their name, email, number and message.
 
-![Image of contact section on smaller screens](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/727f00e2-b074-4f10-9e0f-99b9b2d40bc5)
+#### Navigation Bar (in more detail)
+
+- Navigation bar will be present at the top website, allowing users to easily navigate between different sections at any time without the need to scroll back to the top
+
+### Skeleton
+
+#### Header
+
+[Header Wireframe](https://ibb.co/kg18Stj)
+[Header Wireframe - Smaller Screen](https://ibb.co/BrLVd78)
+
+##### Key Points
+
+- Navigation bar is fixed to the top of the screen.
+- On smaller screens the page links are contained in a drop down menu.
+- The wavey lines in the wireframe represent text. This is true for the wavey lines in all the rest of the wireframes.
+- The box labeled "Portrait Here" will be replaced with my portrait.
+- On smaller screens the the portrait and text will stack in a column.
+
+#### About Me section
+
+[About Me Wireframe](https://ibb.co/nMbXWSV)
+[About Me Wireframe - Smaller Screen](https://ibb.co/DpNGyfb)
+
+##### Key Points
+
+- The section features another portrait and again the wavey lines represent text
+- On smaller screens the content will stack in a column.
+- "Contact Me" button will be linked to the contact section and will scroll down to this section when clicked.
+
+#### Projects Section
+
+[Projects Wireframe](https://ibb.co/rFBn4Nh)
+[Projects Wireframe - Smaller Screen](https://ibb.co/WxfTPmv)
+
+##### Key Points
+
+- "Project Thumbnail" will be a snippet of code from that particular project.
+- For the purposes of this project I will make mock repositories for these thumbnails to link to.
+- The project titles will also link to these repositories
+- On smaller screens the content will again stack in a column.
+
+#### Contact Section
+
+[Contact Wireframe](https://ibb.co/WFqnypJ)
+[Contact Wireframe - Smaller Screen](https://ibb.co/m41KvDq)
+
+##### Key Points
+
+- The LinkedIn and Github logos and words will be linked to my profiles.
+- On smaller screens my number, email, linkedIn and GitHub are negated and only the contact form will remain. It is worth noting that this was done purely so I could practice having elements become hidden on certain screen sizes.
+
+### Surface
 
 ### Design Decisions
 
 #### Colours
 
-- The primary colours for the website are Hex: #0A2239 and Hex:#132E32 . This dark colour was choosen as I typically operate my IDEs (Integrated Development Environment) in night mode and these colour reminded me of that.
+- The primary colours for the website are Hex: #0A2239 and Hex:#132E32. This dark colour was chosen as I typically operate my IDEs (Integrated Development Environment) in night mode and these colour reminded me of that.
 - Secondary colours of Hex: #53A2BE and Hex:#1D84B5 are used to create contrast between the sections of the page.
-- The text is mostly white with the navbar in black as this give the best contrasts.
-- Navbar links show as Hex: #53A2BE, contact me button shows as HEX: #53A2BE with a background colour of white and project links show as black when hovered over
+- The text is mostly white with the navigation bar in black as this give the best contrasts.
+- Navigation bar links show as Hex: #53A2BE, contact me button shows as HEX: #53A2BE with a background colour of white and project links show as black when hovered over
 
 #### Typography
 
-- The navbar, about section heading and  project titles all used the display font "Barriecito". As these are the only time this is being used so it will stnad our from all other text.
+- The navigation bar, about section heading and  project titles all used the display font "Barriecito". As these are the only times this font is being used it will stand out from all other text.
 - Vast majority of text was written in the sans-serif font "Open Sans". This is a simple clean font that is easy to read.
 
 #### Icons
 
-- Icons will be either white or blacking depending on what provides the best contrast.
-- Either company logos or globally regonised symbols for what they were representing are used to meet the users expectations. E.g [Linkedin](https://www.linkedin.com/) logo being used for a link to a linkedin page.
+- Icons will be either white or black depending on what provides the best contrast.
+- Either company logos or globally recognised symbols are used to meet the users expectations. E.g [Linkedin](https://www.linkedin.com/) logo being used for a link to a linkedIn page.
 
 #### Images
 
-- As the webiste is a personal portfolio, portaits with no background have been used.
-- For the projects, code snippet screen shots have been used. If the images are clicked a tab will open to the associated GitHub repository. PLEASE NOTE: Pictures of my dog have been used as placeholder for these images as these projects don't currently exist.
+- As the webiste is a personal portfolio, portraits with no background have been used.
+- For the projects, code snippet screen shots have been used. If the images are clicked a tab will open to the associated GitHub repository.
 
-### Wireframes
+### Landing Header
 
-- Header - [View](https://ibb.co/Zmg3MR8)
-- About Me - [View](https://ibb.co/Jsmpcqh)
-- Projects - [View](https://ibb.co/mbDWR2Y)
-- Contact - [View](https://ibb.co/8jbSbkJ)
+![Image of my header](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/c92043d2-7e0b-44e2-be23-857ff18aa63d)
 
-## Features
+![Image of header on smaller screens](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/03d49db7-b8bf-42df-ae2b-90f065c3394c)
 
-### Existing Features
+### About Me Section
 
-1. Fixed Navigation Bar
+![Image of about me scetion](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/4fede8b4-8ac6-4d8d-8854-d8485cd2e866)
 
-    - Navigation bar fixed to the top of the screen with links so no matter where you are on the page you can always just to another section.
-    - Navigation bar includes links to the three sections: About, Projects and Contact.
-    - I have also included links to my [Linkedin](https://www.linkedin.com/) and [Github](https://github.com/)
+![Image of about me section on smaller screens](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/4d4e9251-f3d4-44ec-9068-1afea619e24f)
 
-2. About Section
+### Projects Section
 
-    - This sections includes a brief description of the technologies that I can use so that potetnial employers and collaborators can have a quick overview of my skill set.
-    - A "Contact Me" button is found at the bottom of this section to allow the user to quickly be able ot jump to that section after reading about me.
+![Image of project section](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/433a2219-5a5c-48dd-83c2-d371aad5df2c)
 
-### Left to Implement
+![Image of project section on smaller screens](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/c90ac523-6ef5-4980-87c5-35edbfac9d45)
 
-1. Scroll down prompts which will be animated to bounce at the bottom of each section. I'm currently struggling with the positions of these elements so any feedback would be appreciated.
-2. Projects section should include screenshots of code snippets that when clicked take you to the respective GitHub repository, rather than cute pictures of my dog.
-3. Social media links don't currently go to my pages. These pages are yet to be finished so didn't want to link to something that wasn't complete.
-4. Link contact form at the bottom of the page to either a database or triggers an automated email that sends me the message and contact details.
+### Contact Section
+
+![Image of contact section](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/934c8e18-8ce4-40da-8d3a-76c5ab2e6c12)
+
+![Image of contact section on smaller screens](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/727f00e2-b074-4f10-9e0f-99b9b2d40bc5)
 
 ## Technologies Used
 
@@ -147,8 +199,6 @@ At everystage of the design the main focus is driving traffic towars the contact
 ## Deployment
 
 ## Credits
-
-### Content
 
 ### Media
 
