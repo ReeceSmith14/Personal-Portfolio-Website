@@ -12,7 +12,7 @@ This mock website represents my primary hub for showcasing my skills and project
   - [Strategy](#strategy)
   - [Scope](#scope)
   - [Structure](#structure)
-  - [Skeleton](#keleton)
+  - [Skeleton](#skeleton)
   - [Surface](#surface)
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
@@ -174,11 +174,9 @@ At every stage of the design the main focus is driving traffic towards the conta
 
 ### Projects Section
 
-DOUBLE CHECK THESE IMAGES ARE CORRECT
+![Image of project section](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/48b92294-c08e-44ec-a1ed-96bbb68d04b4)
 
-![Image of project section](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/433a2219-5a5c-48dd-83c2-d371aad5df2c)
-
-![Image of project section on smaller screens](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/c90ac523-6ef5-4980-87c5-35edbfac9d45)
+![Image of projects section on smaller screen](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/94e04771-e324-433c-b9a0-b9a8832d86c3)
 
 ### Contact Section
 
@@ -202,6 +200,7 @@ DOUBLE CHECK THESE IMAGES ARE CORRECT
 
 ## Testing
 
+
 | Test Description | Expected Outcome | Outcome | Action | Re-test |
 | --- | --- | --- | --- | --- |
 | Social Media Links | Links open to my social media pages on a new tab | Passed | N/A | N/A |
@@ -221,13 +220,13 @@ DOUBLE CHECK THESE IMAGES ARE CORRECT
 
 CSS was validated using [The W3C CSS Validation Services](https://jigsaw.w3.org/css-validator/)
 
-INSERT SCREENSHOT HERE REECE
+![valid-css](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/a91c8f78-50a3-484f-8acb-41d4044ce4de)
 
 #### HTML
 
 HTML was validated using [Markup Validation Service](https://validator.w3.org)
 
-INSERT SCREENSHOT HERE
+![valid-html](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/3d3868a3-087d-4a8f-886f-f1deb6cf5b2b)
 
 ## Deployment
 
