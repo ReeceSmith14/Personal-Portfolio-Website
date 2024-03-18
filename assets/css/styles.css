@@ -67,20 +67,30 @@ a.nav-link:hover {
 /*About section contact me button styling*/
 #button{
     background-color: #0a2239;
-    color: white;
     border: none;
     padding: 10px 15px;
     margin-bottom: 5px;
     border-radius: 5px;
+    color:white;
+    text-decoration: none;
 }
 #button:hover{
     background-color: white;
-    color:#0a2239 ;
+    color:#0a2239;
     transition: 0.2s;
 }
 /*Project section styling*/
+#projects-heading{
+    color:white;
+    margin-top:0;
+    font-family: "Barriecito", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size:2rem;
+    padding-bottom:40px;
+}
 #projects{
-    padding-top:100px;
+    padding-top:40px;
     padding-bottom:100px;
     background-image: linear-gradient(to right, #0a2239, #132e32);
 }
@@ -96,14 +106,15 @@ img.img-fluid.project-img{
     display:flex;
     justify-content: center;
 }
-#projects a figcaption{
+#projects a p{
     font-size:1.5rem;
     margin:20px;
-    font-family: "Barriecito", system-ui;
+    font-family: "Open Sans", sans-serif;
     font-weight: 400;
     font-style: normal;
+    font-variation-settings: "wdth" 100;
 }
-#projects a figcaption:hover{
+#projects a p:hover{
     color:black;
     transition: 0.3s;
 }
@@ -181,7 +192,7 @@ and project screenshots on tablets and smaller screens */
   #about-img{
     padding-bottom:50px;
   }
-  figure{
+  .figure{
     padding-bottom:50px;
   }
 }

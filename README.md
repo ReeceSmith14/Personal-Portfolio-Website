@@ -147,7 +147,7 @@ At every stage of the design the main focus is driving traffic towards the conta
 
 #### Typography
 
-- The navigation bar, about section heading and  project titles all used the display font "Barriecito". As these are the only times this font is being used it will stand out from all other text.
+- The navigation bar, about section heading and  project heading all used the display font "Barriecito". As these are the only times this font is being used it will stand out from all other text.
 - Vast majority of text was written in the sans-serif font "Open Sans". This is a simple clean font that is easy to read.
 
 #### Icons
@@ -173,6 +173,8 @@ At every stage of the design the main focus is driving traffic towards the conta
 ![Image of about me section on smaller screens](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/4d4e9251-f3d4-44ec-9068-1afea619e24f)
 
 ### Projects Section
+
+DOUBLE CHECK THESE IMAGES ARE CORRECT
 
 ![Image of project section](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/433a2219-5a5c-48dd-83c2-d371aad5df2c)
 
@@ -223,7 +225,9 @@ INSERT SCREENSHOT HERE REECE
 
 #### HTML
 
+HTML was validated using [Markup Validation Service](https://validator.w3.org)
 
+INSERT SCREENSHOT HERE
 
 ## Deployment
 
