@@ -43,7 +43,6 @@ a.nav-link:hover {
 /*Styling for the header text*/
 #header-writing {
     font-family: "Open Sans", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
     font-variation-settings: "wdth" 100;
@@ -53,7 +52,6 @@ a.nav-link:hover {
 #about {
     background-image: linear-gradient(to right, #53a2be, #1d84b5);
     font-family: "Open Sans", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
     font-variation-settings: "wdth" 100;

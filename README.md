@@ -32,7 +32,7 @@ The goal of the project is to design a mock personal portfolio website that attr
 
 #### User Stories
 
-As a potential employer, client or collaborator I want:As a potential employer, client or collaborator I want to:
+As a potential employer, client or collaborator I want to:
 
 - Quickly understand the purpose of the portfolio website.
 - Navigate easily with a user-friendly layout.
@@ -87,6 +87,7 @@ At every stage of the design the main focus is driving traffic towards the conta
 #### Header
 
 [Header Wireframe](https://ibb.co/kg18Stj)
+
 [Header Wireframe - Smaller Screen](https://ibb.co/BrLVd78)
 
 ##### Key Points
@@ -100,6 +101,7 @@ At every stage of the design the main focus is driving traffic towards the conta
 #### About Me section
 
 [About Me Wireframe](https://ibb.co/nMbXWSV)
+
 [About Me Wireframe - Smaller Screen](https://ibb.co/DpNGyfb)
 
 ##### Key Points
@@ -111,6 +113,7 @@ At every stage of the design the main focus is driving traffic towards the conta
 #### Projects Section
 
 [Projects Wireframe](https://ibb.co/rFBn4Nh)
+
 [Projects Wireframe - Smaller Screen](https://ibb.co/WxfTPmv)
 
 ##### Key Points
@@ -123,6 +126,7 @@ At every stage of the design the main focus is driving traffic towards the conta
 #### Contact Section
 
 [Contact Wireframe](https://ibb.co/WFqnypJ)
+
 [Contact Wireframe - Smaller Screen](https://ibb.co/m41KvDq)
 
 ##### Key Points
@@ -195,6 +199,31 @@ At every stage of the design the main focus is driving traffic towards the conta
 - [Placeit](https://placeit.net/) used to produce website mockup used in this README.md
 
 ## Testing
+
+| Test Description | Expected Outcome | Outcome | Action | Re-test |
+| --- | --- | --- | --- | --- |
+| Social Media Links | Links open to my social media pages on a new tab | Passed | N/A | N/A |
+| Navigation Links | Links smoothly scroll page to corresponding section | Failed. Contact link didn't work | href attribute of anchor tag updated to the correct element id. "contact-section" | Passed |
+| Contact Me Button | Link smoothly scrolls page to corresponding section | Failed. Contact link didn't work | href attribute of anchor tag updated to the correct element id. "contact-section" | Passed |
+| Project Title & Thumbnail Links | Links open to respective GitHub pages on a new tab | Passed | N/A | N/A |
+| Navigation Bar Responsiveness | On smaller screens the navigation links should become a drop down menu | Passed | N/A | N/A |
+| Hover States | All clickable links (minus project thumbnails) should change appearance on hover | Passed | N/A | N/A |
+| Responsiveness On Larger Screens | At 1399px elements should stop expanding | Passed | N/A | N/A |
+| Responsiveness On Smaller Screens | Certain elements should form columns rather than rows | Passed | N/A | N/A |
+| Contact Form Validation | Name, Email & Message inputs should be required. Name inout should only accept text, Email should only only accept valid emails, Number should only accept numbers & Message can accept anything. Information should be submitted to https://formdump.codeinstitute.net | Passed | N/A | N/A |
+| Browser Compatibility | Tested site using browsers Firefox, Safari, Chrome and Edge. All above tests should pass. | Failed. Images failed to load on Safari. webp format  is supported by Safari on Catalina. On newer IOS devices images load fine | N/A | N/A |
+
+### Code Validation
+
+#### CSS
+
+CSS was validated using [The W3C CSS Validation Services](https://jigsaw.w3.org/css-validator/)
+
+INSERT SCREENSHOT HERE REECE
+
+#### HTML
+
+
 
 ## Deployment
 
