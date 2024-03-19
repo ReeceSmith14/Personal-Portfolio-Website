@@ -230,6 +230,55 @@ HTML was validated using [Markup Validation Service](https://validator.w3.org)
 
 ## Deployment
 
+This project was developed  using a mixture of IDEs, committed to git initially using the PCs built-in terminal and then eventually [GitHub Desktop](https://desktop.github.com/).
+
+The IDEs used were:
+
+- [Atom](https://atom-editor.cc/) Used primarily to edit the README.md becuase of it built-in markdown preview
+- [Sublime Text](https://www.sublimetext.com/index2) Used to edit HTML and CSS.
+
+### Deploying from GitHub
+
+1. Log into GitHub account.
+2. Go to your repositories and select Personal-Portfolio-Website.
+3. At the top of the screen you'll find "Settings" in the same navigation bar as "Code", "Issues" etc.
+4. Open "Pages".
+5. Under "Build and deployment", change source to "Deploy from a branch".
+6. Under branch select "Main" / whichever branch is the most up to date and working, select the "root" folder and click the save button.
+7. Refresh the page and eventually at the top a URL will be generate.
+8. Click "Visit site" to view website.
+
+### Running The Project Locally
+
+1. At the top of this repository click "<> Code",then "local", then "clone", "HTTPS" and copy the URL.
+2. In your IDE of choice, change to your preferred  working directory, open the Git Bash and type:
+
+```
+git clone <repository-url>
+```
+3. Hit enter to clone.
+
+### Forking the Repository
+
+You can create a copy of the repository and making changes without affecting the original repository by forking.
+
+Click the "fork" button at the top of the GitHub repository and a copy of the repository will be saved in your account.
+
+If the original repository is updated you'll receive a notification.
+
+### Making Updates
+
+After making changes to the code using your preferred IDE, you can commit them using Git.
+
+type the following into your git bash in order to do so:
+
+```
+git add .
+git commit -m "commit message"
+git push origin main
+```
+
+
 ## Credits
 
 ### Media
