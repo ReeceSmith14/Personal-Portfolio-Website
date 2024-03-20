@@ -1,6 +1,7 @@
 html {
     scroll-behavior: smooth;
 }
+
 /*Styling for the social links and navbar*/
 #top-navbar {
     border-bottom: black;
@@ -30,6 +31,7 @@ a.nav-link:hover {
     color: #53a2be;
     transition: 0.2s;
 }
+
 /*Stops social links from wrapping on smaller screens*/
 .nav {
     flex-wrap: nowrap !important;
@@ -40,6 +42,7 @@ a.nav-link:hover {
     padding-top:100px;
     background-image: linear-gradient(to right, #0a2239, #132e32);
 }
+
 /*Styling for the header text*/
 #header-writing {
     font-family: "Open Sans", sans-serif;
@@ -48,6 +51,7 @@ a.nav-link:hover {
     font-variation-settings: "wdth" 100;
     color: white;
 }
+
 /*About section styling*/
 #about {
     background-image: linear-gradient(to right, #53a2be, #1d84b5);
@@ -58,12 +62,14 @@ a.nav-link:hover {
     color: white;
     padding-top:30px;
 }
+
 /*About heading styling*/
 #about-heading {
     font-family: "Barriecito", system-ui;
     font-weight: 400;
     font-style: normal;
 }
+
 /*About section contact me button styling*/
 #button{
     background-color: #0a2239;
@@ -79,6 +85,7 @@ a.nav-link:hover {
     color:#0a2239;
     transition: 0.2s;
 }
+
 /*Project section styling*/
 #projects-heading{
     color:white;
@@ -94,6 +101,7 @@ a.nav-link:hover {
     padding-bottom:100px;
     background-image: linear-gradient(to right, #0a2239, #132e32);
 }
+
 /*Project section links and screenshot styling*/
 img.img-fluid.project-img{
     max-width: 80%;
@@ -118,6 +126,7 @@ img.img-fluid.project-img{
     color:black;
     transition: 0.3s;
 }
+
 /*Contact section styling*/
 #contact-container{
     height:100%;
@@ -125,6 +134,7 @@ img.img-fluid.project-img{
 #contact-section{
     background-image: linear-gradient(to right, #53a2be, #1d84b5);
 }
+
 /*Contact details styling*/
 #contacts{
     height:100%;
@@ -149,6 +159,7 @@ img.img-fluid.project-img{
     color:#0a2239;
     transition:0.3s;
 }
+
 /* Contact form styling*/
 #contact-form{
     height:100%;
@@ -168,6 +179,7 @@ img.img-fluid.project-img{
 #contact-form input, #contact-form textarea{
     margin-top:1vh;
 }
+
 /*Contact form button styling*/
 #submit{
     background-color: #0a2239;

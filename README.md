@@ -2,7 +2,7 @@
 
 [Website Here!](https://reecesmith14.github.io/Personal-Portfolio-Website/)
 
-This mock website represents my primary hub for showcasing my skills and projects to potential employers. It was crafted with a user-centric approach, utilising the framework [Bootstrap](https://getbootstrap.com/), languages such as [HTML5](https://en.wikipedia.org/wiki/HTML) & [CSS3](https://en.wikipedia.org/wiki/CSS), and libraries & programs including [Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [Git](https://git-scm.com/), [GitHub](https://github.com/), and [Balsamiq](https://balsamiq.com/).
+This mock website represents my primary hub for showcasing my skills and projects to potential employers. It was crafted with a user-centric approach, utilising the framework [Bootstrap](https://getbootstrap.com/), languages such as [HTML5](https://en.wikipedia.org/wiki/HTML) & [CSS3](https://en.wikipedia.org/wiki/CSS), and libraries & programs including [Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [Git](https://git-scm.com/) and [GitHub](https://github.com/)
 
 ![Mockup image of my website](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/28f73e43-08c4-4200-8d36-cb81eb5bba22)
 
@@ -37,7 +37,7 @@ As a potential employer, client or collaborator I want to:
 - Quickly understand the purpose of the portfolio website.
 - Navigate easily with a user-friendly layout.
 - Assess the developer's skills and experiences.
-- Learn about the developer through an engaging 'About Me' section.
+- Learn about the developer through an engaging "About Me" section.
 - Access external profiles like LinkedIn or GitHub for more information.
 - Find easily accessible contact information.
 
@@ -47,7 +47,7 @@ Strategy: The website should showcase the technologies I can use, and the skills
 
 #### Functions, Features & Content
 
-- Landing header to summarise the website and provide easy navigation to all other sections.
+- Header to summarise the website and provide easy navigation to all other sections.
 - About me section to summarise my experience and skills.
 - Projects section to give an overview of my work.
 - Contact section to allow employers, collaborators and clients to connect and ask questions.
@@ -56,22 +56,22 @@ At every stage of the design the main focus is driving traffic towards the conta
 
 ### Structure
 
-#### Landing header
+#### Header
 
 - Upon landing on the header, users are greeted with a clean and visually appealing layout with the navigation bar and links predictably at the top of the web page to drive a familiar experience.
 - The header includes the developer's name and a brief tagline highlighting and suggesting what they can expect from this webpage.
-- There is a visually striking hero portrait of me in order to showcase a glimpse of personailty and to make the website more personable and begin to build a connection with the user.
+- There is a visually striking hero portrait of me in order to showcase a glimpse of personality and to make the website more personable and begin to build a connection with the user.
 
 #### About Me Section
 
 - The About Me section provides users with more information about me, including my skills, experience, and passion for web development.
-- This section includes another portrait of me again to make this section more personable.
+- This section includes another portrait of me, again to make this section more personable.
 - At the bottom of the section there is a call-to-action (CTA) button prompting users to contact me.
 
 #### Projects Section
 
 - Projects are displayed as clickable tiles or cards, each featuring a thumbnail image and project title
-- Users can click on a project to view more details. Clicking either the images or titles will take the user to that project respective Github repository.
+- Users can click on a project to view more details. Clicking either the images or titles will take the user to that project's Github repository.
 
 #### Contact Section
 
@@ -132,18 +132,16 @@ At every stage of the design the main focus is driving traffic towards the conta
 ##### Key Points
 
 - The LinkedIn and Github logos and words will be linked to my profiles.
-- On smaller screens my number, email, linkedIn and GitHub are negated and only the contact form will remain. It is worth noting that this was done purely so I could practice having elements become hidden on certain screen sizes.
+- On smaller screens my number, email, LinkedIn and GitHub are negated and only the contact form will remain.
 
 ### Surface
 
-### Design Decisions
-
 #### Colours
 
-- The primary colours for the website are Hex: #0A2239 and Hex:#132E32. This dark colour was chosen as I typically operate my IDEs (Integrated Development Environment) in night mode and these colour reminded me of that.
-- Secondary colours of Hex: #53A2BE and Hex:#1D84B5 are used to create contrast between the sections of the page.
-- The text is mostly white with the navigation bar in black as this give the best contrasts.
-- Navigation bar links show as Hex: #53A2BE, contact me button shows as HEX: #53A2BE with a background colour of white and project links show as black when hovered over
+- The primary colours for the website are Hex: #0A2239 and Hex: #132E32. This dark colour was chosen as I typically operate my IDEs (Integrated Development Environment) in night mode and these colour reminded me of that.
+- Secondary colours of Hex: #53A2BE and Hex: #1D84B5 are used to create contrast between the sections on the page.
+- The text is mostly white but some black has been used depending on what gives the best contrast.
+- When hovered navigation bar links show as Hex: #53A2BE, contact me button shows as HEX: #53A2BE with a white background and project links show as black.
 
 #### Typography
 
@@ -153,14 +151,14 @@ At every stage of the design the main focus is driving traffic towards the conta
 #### Icons
 
 - Icons will be either white or black depending on what provides the best contrast.
-- Either company logos or globally recognised symbols are used to meet the users expectations. E.g [Linkedin](https://www.linkedin.com/) logo being used for a link to a linkedIn page.
+- Either company logos or globally recognised symbols are used to meet the users expectations. E.g [Linkedin](https://www.linkedin.com/) logo being used for a link to a LinkedIn page.
 
 #### Images
 
-- As the webiste is a personal portfolio, portraits with no background have been used.
+- As the website is a personal portfolio, portraits with no background have been used.
 - For the projects, code snippet screen shots have been used. If the images are clicked a tab will open to the associated GitHub repository.
 
-### Landing Header
+### Header
 
 ![Image of my header](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/c92043d2-7e0b-44e2-be23-857ff18aa63d)
 
@@ -168,7 +166,7 @@ At every stage of the design the main focus is driving traffic towards the conta
 
 ### About Me Section
 
-![Image of about me scetion](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/4fede8b4-8ac6-4d8d-8854-d8485cd2e866)
+![Image of about me section](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/4fede8b4-8ac6-4d8d-8854-d8485cd2e866)
 
 ![Image of about me section on smaller screens](https://github.com/ReeceSmith14/Personal-Portfolio-Website/assets/61851890/4d4e9251-f3d4-44ec-9068-1afea619e24f)
 
@@ -188,31 +186,55 @@ At every stage of the design the main focus is driving traffic towards the conta
 
 - [Online-Convert.com](https://image.online-convert.com/convert-to-ico) to convert a .png to a .ico. This .ico file was used as a favicon to appear next to the title in the browser tab.
 - [HTML](https://en.wikipedia.org/wiki/HTML) for the website content.
-- [Bootstrap](https://getbootstrap.com/) framework for the intial styling and responsivness.
-- [CSS](https://en.wikipedia.org/wiki/CSS) to futher style and customise the webpage.
+- [Bootstrap](https://getbootstrap.com/) framework for the initial styling and responsiveness.
+- [CSS](https://en.wikipedia.org/wiki/CSS) to further style and customise the webpage.
 - [Google Fonts](https://fonts.google.com/) to style the website fonts.
 - [Font Awesome](https://fontawesome.com/) for the icons used on the webpage.
 - [Git](https://git-scm.com/) was used as the version control system.
 - [GitHub](https://github.com/) for the git repository hosting.
-- [Balsamiq](https://balsamiq.com/) for the wireframe modeling
 - [ImgBB](https://imgbb.com/) to host the wireframe screenshots.
 - [Placeit](https://placeit.net/) used to produce website mockup used in this README.md
 
 ## Testing
-
 
 | Test Description | Expected Outcome | Outcome | Action | Re-test |
 | --- | --- | --- | --- | --- |
 | Social Media Links | Links open to my social media pages on a new tab | Passed | N/A | N/A |
 | Navigation Links | Links smoothly scroll page to corresponding section | Failed. Contact link didn't work | href attribute of anchor tag updated to the correct element id. "contact-section" | Passed |
 | Contact Me Button | Link smoothly scrolls page to corresponding section | Failed. Contact link didn't work | href attribute of anchor tag updated to the correct element id. "contact-section" | Passed |
-| Project Title & Thumbnail Links | Links open to respective GitHub pages on a new tab | Passed | N/A | N/A |
+| Project Title & Thumbnail Links | Links open to respective GitHub repositories in a new tab | Passed | N/A | N/A |
 | Navigation Bar Responsiveness | On smaller screens the navigation links should become a drop down menu | Passed | N/A | N/A |
 | Hover States | All clickable links (minus project thumbnails) should change appearance on hover | Passed | N/A | N/A |
 | Responsiveness On Larger Screens | At 1399px elements should stop expanding | Passed | N/A | N/A |
 | Responsiveness On Smaller Screens | Certain elements should form columns rather than rows | Passed | N/A | N/A |
-| Contact Form Validation | Name, Email & Message inputs should be required. Name inout should only accept text, Email should only only accept valid emails, Number should only accept numbers & Message can accept anything. Information should be submitted to https://formdump.codeinstitute.net | Passed | N/A | N/A |
-| Browser Compatibility | Tested site using browsers Firefox, Safari, Chrome and Edge. All above tests should pass. | Failed. Images failed to load on Safari. webp format  is supported by Safari on Catalina. On newer IOS devices images load fine | N/A | N/A |
+| Contact Form Validation | Name, Email & Message inputs should be required. Name input should only accept text, Email should only only accept valid emails, Number should only accept numbers & Message can accept anything. Information should be submitted to https://formdump.codeinstitute.net | Passed | N/A | N/A |
+| Browser Compatibility | Tested site using browsers Firefox, Safari, Chrome and Edge. All above tests should pass. | Failed. Images failed to load on Safari on my MacBook Air. webp format  isn't supported by Safari 3.1 - 13.1. webp started be supported from Safari 14 - 15.6, so on newer IOS devices images will load fine. This was confirmed using [caniuse.com](https://caniuse.com/?search=webp)| N/A | N/A |
+
+### Testing User Stories
+
+>- Quickly understand the purpose of the portfolio  website.
+
+Name, role and tagline are displayed as soon as the page loads. This hints towards what the page is about and just underneath is an about section with more information.
+
+>- Navigate easily with a user-friendly layout.
+
+Navigation bar is on display at the top of the page and is fixed so it's always in view. This allows the user to navigate to any section quickly no matter where they are on the page.
+
+>- Assess the developer's skills and experiences.
+
+About section clearly lays out skills and experiences. The user is also prompted to view the projects just below this section. Again the navigation bar is on display should the user want to move trough the page without scrolling
+
+> - Learn about the developer through an engaging "About Me" section.
+
+I would like to think that my about section is engaging and I tried my best to make it more personal by including a portrait.
+
+>- Access external profiles like LinkedIn or GitHub for more information.
+
+Links to my LinkedIn and GitHub are included in both the fixed navigation bar and also in the contact section at the bottom.
+
+>- Find easily accessible contact information.
+
+There is a contact section which includes various ways to contact me, including: LinkedIn, GitHub, phone, email and contact form.
 
 ### Code Validation
 
@@ -260,7 +282,7 @@ git clone <repository-url>
 
 ### Forking the Repository
 
-You can create a copy of the repository and making changes without affecting the original repository by forking.
+You can create a copy of the repository and make changes without affecting the original repository by forking.
 
 Click the "fork" button at the top of the GitHub repository and a copy of the repository will be saved in your account.
 
@@ -297,3 +319,4 @@ git push origin main
 - [Code Institute](https://codeinstitute.net/): For their tutorials, guidance, templates, examples, and mentorship.
 - [GitHub](https://github.com/): For their [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf).
 - [W3Schools](https://www.w3schools.com/): For their tutorials, examples and reference sheets.
+- [Markdown Guide](https://www.markdownguide.org/cheat-sheet/): For their cheatsheet on markdown.
